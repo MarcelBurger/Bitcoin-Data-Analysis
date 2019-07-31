@@ -6,4 +6,5 @@ Finding reliable bitcoin price data that goes back to the early days of bitcoin 
 
 
 [1]: Web based application to convert TradingView data to CSV: https://www.reddit.com/r/algotrading/comments/b543yn/made_a_webapp_to_get_price_and_indicator_as_csv/
+
 [2]: Bitcoin blockchain data: https://blockchair.com/bitcoin/blocks
